@@ -1,0 +1,16 @@
+npm install
+
+node index
+
+
+
+Vecka lista
+
+Lista med alla maträtter
+Varje maträtt ska ha innehåll/taggar
+
+Genera fram nya matsedlar?
+(Random?)
+
+Titta så huvudinnehåll inte är samma med något annat på matsedeln?
+
